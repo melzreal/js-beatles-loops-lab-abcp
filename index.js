@@ -27,3 +27,10 @@ function johnLennonFacts(jFacto){
 
 
 
+function iLoveTheBeatles(x){
+  
+  var emptyArr = [];
+  
+  
+  
+}
