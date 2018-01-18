@@ -32,7 +32,7 @@ function iLoveTheBeatles(x){
   var emptyArr = [];
   
   do {
-  emptyArr.push('')
+  emptyArr.push('I love the Beatles!')
 } while (maybeTrue());
   
 }
