@@ -29,7 +29,7 @@ function johnLennonFacts(jFacto){
 
 function iLoveTheBeatles(x){
   
-  var emptyArr;
+  var emptyArr = [];
   
   do {
   
