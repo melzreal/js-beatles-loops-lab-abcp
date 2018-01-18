@@ -31,6 +31,8 @@ function iLoveTheBeatles(x){
   
   var emptyArr = [];
   
-  
+  do {
+  emptyArr.push('')
+} while (maybeTrue());
   
 }
