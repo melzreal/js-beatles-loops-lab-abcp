@@ -29,11 +29,14 @@ function johnLennonFacts(jFacto){
 
 function iLoveTheBeatles(x){
   
-  var emptyArr = [];
+  var emptyArr;
   
   do {
-  emptyArr.push('I love the Beatles!')
+  
+  emptyArr.push('I love the Beatles!');
+  
   x++;
+  
 } while (x < 15);
   
 }
