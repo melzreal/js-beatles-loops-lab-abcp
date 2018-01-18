@@ -32,11 +32,10 @@ function iLoveTheBeatles(x){
   var emptyArr = [];
   
   do {
-  
-  emptyArr.push('I love the Beatles!');
-  
+   emptyArr.push('I love the Beatles!');
   x++;
   
-} while (x < 15);
+  } while (x<15);
+  return emptyArr;
   
 }
