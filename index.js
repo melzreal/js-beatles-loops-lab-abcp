@@ -33,6 +33,7 @@ function iLoveTheBeatles(x){
   
   do {
   emptyArr.push('I love the Beatles!')
-} while (maybeTrue());
+  x++;
+} while (x < 15);
   
 }
